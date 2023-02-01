@@ -1,0 +1,62 @@
+#app {
+    width: 1320px;
+    height: 530px;
+    text-align: center;
+    padding: 50px 0;
+    color:#ecf008;
+    font-family: 'Press Start 2P';font-size: 20px;
+    background-color:rgb(39, 42, 53);
+}
+
+.arrows {
+    position: absolute;
+    top: 25%;
+    right: 650px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 90px 0;
+    color:rgb(39, 42, 53);
+    font-family: 'Press Start 2P';font-size: 20px;
+    background-color: #6d8cdf;
+    border: 3px solid #4870dd;
+  }
+
+
+  .score {
+    position: absolute;
+    top: 30%;
+    right: 400px;
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    padding: 50px 0;
+    color:rgb(39, 42, 53);
+    font-family: 'Press Start 2P';font-size: 14px;
+    background-color: #6d8cdf;
+    border: 3px solid #4870dd;
+  }
+
+
+.restart {
+    position: absolute;
+    top: 60%;
+    right: 400px;
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    padding: 50px 0;
+    color:rgb(39, 42, 53);
+    font-family: 'Press Start 2P';font-size: 14px;
+    background-color: #6d8cdf;
+    border: 3px solid #4870dd;
+  }
+
+  .return {
+    position: absolute;
+    top:5%;
+    right: 35px;
+    color: #ecf008;
+    background: transparent;
+  }
+
